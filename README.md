@@ -1,5 +1,14 @@
 <h1 align="center">LinkedIn Sales Automation Suite</h1>
 
+## Project Overview:
+This automation suite is designed to streamline LinkedIn lead generation, outreach, and engagement—especially useful for agencies, freelancers, and SaaS founders looking to scale client acquisition. It supports everything from bulk account creation and profile warming to smart commenting, scraping, and message sequences. Whether you're running a BPO, offering cybersecurity services, or experimenting with client personas using fake accounts, this toolkit adapts to your playbook.
+
+
+## Core Features:
+- **Stealth Operations:** Bypasses detection using fingerprint spoofing, residential proxies, and human-like behavior simulation.
+- **Hyper-Targeted Outreach:** Scrapes users who’ve reacted or commented on niche posts for laser-focused messaging.
+- **Modular Design:** Easily extensible to add custom DMs, follow-up logic, tagging, or other engagement flows.
+
 <div align="center">
   <img
     src="https://github.com/user-attachments/assets/d200549d-7613-446f-a43b-19a4117ca360"
@@ -63,14 +72,6 @@
 
 <div align="left">
 
-## Project Overview:
-This automation suite is designed to streamline LinkedIn lead generation, outreach, and engagement—especially useful for agencies, freelancers, and SaaS founders looking to scale client acquisition. It supports everything from bulk account creation and profile warming to smart commenting, scraping, and message sequences. Whether you're running a BPO, offering cybersecurity services, or experimenting with client personas using fake accounts, this toolkit adapts to your playbook.
-
-
-## Core Strengths:
-- **Stealth Operations:** Bypasses detection using fingerprint spoofing, residential proxies, and human-like behavior simulation.
-- **Hyper-Targeted Outreach:** Scrapes users who’ve reacted or commented on niche posts for laser-focused messaging.
-- **Modular Design:** Easily extensible to add custom DMs, follow-up logic, tagging, or other engagement flows.
 
 ## Features List:
 | Feature              | Description                                                                    |
