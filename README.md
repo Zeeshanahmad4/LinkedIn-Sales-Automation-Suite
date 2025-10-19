@@ -4,6 +4,14 @@
 This automation suite is designed to streamline LinkedIn lead generation, outreach, and engagement—especially useful for agencies, freelancers, and SaaS founders looking to scale client acquisition. It supports everything from bulk account creation and profile warming to smart commenting, scraping, and message sequences. Whether you're running a BPO, offering cybersecurity services, or experimenting with client personas using fake accounts, this toolkit adapts to your playbook.
 
 
+<h2 align="center">🎥 YouTube Video Downloader</h2>
+
+<p align="center">
+  <img src="https://github.com/Zeeshanahmad4/LinkedIn-Sales-Automation-Suite/blob/main/ScreenRecording2025-10-19at7.17.19AM-ezgif.com-optimize.gif?raw=true" alt="YouTube Video Downloader" width="800">
+</p>
+
+<p align="center">High-speed video extraction with precision and reliability.</p>
+
 ## Core Features:
 - **Stealth Operations:** Bypasses detection using fingerprint spoofing, residential proxies, and human-like behavior simulation.
 - **Hyper-Targeted Outreach:** Scrapes users who’ve reacted or commented on niche posts for laser-focused messaging.
