@@ -18,6 +18,11 @@ This automation suite is designed to streamline LinkedIn lead generation, outrea
       <stop offset="50%" style="stop-color:#1a1f3a;stop-opacity:1" />
       <stop offset="100%" style="stop-color:#0f1419;stop-opacity:1" />
     </linearGradient>
+
+    <p align="center">
+  <img src="https://github.com/Zeeshanahmad4/LinkedIn-Sales-Automation-Suite/blob/main/tiktok_scraper_banner_embedded.svg?raw=true" 
+       alt="TikTok Scraper Banner" width="800">
+</p>
     
     <!-- Accent gradient for data flows -->
     <linearGradient id="accentGradient" x1="0%" y1="0%" x2="100%" y2="0%">
